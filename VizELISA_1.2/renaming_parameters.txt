@@ -1,0 +1,7 @@
+{
+'file extension' : '.xlsx',             # Only files with this extension will be renamed. Change this if other file types are used, e.g., .csv, .png, .txt., etc.
+'prefix' : 'CDTA',                          # This will be added to the start of each file name in the "to_rename" folder
+'suffix' : '',                          # This will be added to the end of each file name in the "to_rename" folder
+'prefix to remove' : '',                # This will be removed from the start of your file names
+'suffix to remove' : '',                # This will be removed from the end of your file names
+}
